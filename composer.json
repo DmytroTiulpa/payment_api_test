@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/api",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "innocent",
+      "email": "email@example.com"
+    }
+  ],
+  "require-dev": {
+    "squizlabs/php_codesniffer": "*",
+    "phpmd/phpmd": "^2.14"
+  },
+  "require": {
+    "sebastian/phpcpd": "^6.0"
+  }
+}
